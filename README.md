@@ -1,31 +1,22 @@
-# Mob Programming Patterns
+# モブプログラミングパターン
 
-Mob programming is an approach to creating software in which the whole team
-works together on the same thing at the same time. At the heart of every
-effective mob there is a group of people working from a place of mutual
-respect to deliver the best software they can, as fast as they are able.
-Effective mob programming comes about from effective communication among
-teammates.  Naturally, interaction styles will vary greatly from team to team
-and situation to situation.  As such, there is no "one way to do mob
-programming."  This is where a robust patterns catalog can help.
+モブプログラミングとは、チーム全員が同じ時間に同じものを共創していくソフトウェア制作の手法です。効果的なモブの中心には、
+最高のソフトウェアをできるだけ早く提供するために、お互いを尊重しながら働く人々がいます。
+効果的なモブプログラミングは、チームメイト間の効果的なコミュニケーションから生まれます。 
+当然のことながら、対話のスタイルはチームごと、状況ごとに大きく異なります。 そのため、「モブプラグラミングを行うための一つの筋道」というものはありません。 
+そこで、強力なパターンカタログが役に立つのです。
 
-A pattern is a repeatable solution that emerges in response to a specific
-problem in a particular context.  You might think of a patterns catalog as a
-collection of tools in a toolbox.  While you might use your trusty hammer
-often, selecting the right tool for the job can not only make work easier, but
-the final result even better.  They key lays in knowing when to use a particular
-pattern and how to use it.
+パターンとは、特定の状況下で特定の問題への対応として生まれた再現可能な解決策のことです。 パターンカタログは、道具箱に入った様々な道具である、と言えます。
+信頼のおける金槌を普段は使いたくなるかもしれませんが、仕事に適したツールを選ぶことで、仕事が楽になるだけでなく、最終的な結果もより良いものになります。 
+大切なのは、そのパターンをいつ、どのように使うかというのを知っていることです。
 
-Mob programming is still a relatively young method.  We're all learning how to
-practice mob programming better.  While we've found it to be a very powerful
-method, it does take some practice to do well.  The goal of this repository
-is to capture the patterns we've discovered so far in the hopes that other teams
-might find them useful as a jumping off point for getting started with mob
-programming.
+モブプログラミングは、まだ比較的若い手法です。 我々は皆モブプログラミングをよりよく実践する方法を学んでいる最中です。
+モブプログラミングは非常に強力な手法であると判断したとしても、それをうまくやるためには練習が必要です。 
+このリポジトリの目的は、私たちがこれまでに発見したパターンを記録することで、結果的にそれが、他のチームがモブプログラミングを始める際の出発点として役立つことを期待しています。
 
-## Patterns
+## パターン
 
-| Pattern                    | Category      | Gist                                                                                                                                                                                                                              |
+| パターン                     | カテゴリ      | 解説                                                                                                                                                                                                                              |
 |----------------------------|---------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Facilitator                | Mob role      | Volunteer who helps the group stay focused and to help resolve differences of opinion.  Typically the driver does not take this role.                                                                                             |
 | Recorder                   | Mob role      | Volunteers who capture notes such as context or design decisions on behalf of the mob.                                                                                                                                            |
