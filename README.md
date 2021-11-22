@@ -26,13 +26,13 @@
 | 悪魔の代弁者           | ロール      | モブによる設計を強化するため、逆の立場に立つナビゲータ。|
 | パンチリスト                 | 共同作業 | モブで利用される作用リストで、今何をしているのかを記録し、次何をするのかを選ぶとき使われる。パンチリストはテキストベースでもグラフィカルでもよい。
 | 暖簾分け             | 共同作業 |単純作業を完成させるために、主流から分岐したメンバー。暖簾分けしたたメンバーで代替案を作成し、全体で検討を行うこともある。                                                     |
-| 助手席             | 共同作業 | 他のナビゲーターを無視して、ひたすらモブの仕事を指示するナビゲーターのこと。                                                                                                                                              |
-| Mute your mic              | 共同作業 | A navigator chooses to temporarily remain silent as a navigator to give other navigators a chance to contribute.  Used as a way to kick start a slow mob or prevent one person from dominating the mob.                           |
-| Fight Club                 | 共同作業 | A situation in which two or more participants fight over the direction of the mob with total disregard for the guiding principles of mutual respect and consideration.  Extremely harmful to the mob, considered an anti-pattern. |
-| Natural Swap               | 共同作業 | A new driver takes the keyboard without prompting by either a member of the mob or timer at a “natural” break in the work, such as after a test passes or a refactoring step is completed.                                        |
-| Forced Swap                | 共同作業 | A new driver takes the keyboard after being prompted by either a member of the mob or a timer.                                                                                                                                    |
-| Distracted non-Participant | 共同作業 | Navigators who are present in the mob but otherwise do not participate, perhaps distracted by other work.                                                                                                                         |
-| Thinking Out Loud          | 進行       | The driver articulates their current thinking as they are the prevailing expert in the room or see the path forward.                                                                                                              |
+| 助手席             | 共同作業 | 他のナビゲーターを無視して、ひたすらモブの仕事を指示するナビゲーターのこと。（訳注: アンチパターン？）                                                                                                                                              |
+| マイクミュート              | 共同作業 | 他のナビゲーターに貢献する機会を与えるために、一時的にナビゲーターとして沈黙すること。停滞しているモブを再起動したり、一人がモブを支配するのを防ぐために使われる。                           |
+| ファイトクラブ                 | 共同作業 | 2人以上の参加者が、相互尊重と配慮の原則を全く無視して、モブの方向性を巡って争う状況のこと。モブにとって非常に有害であり、アンチパターンとみなされる。 |
+| 自然交代               | 共同作業 | 新しいメンバーが、メンバーやタイマーに促されることなしに、テストの通過やリファクタリング完了などの「自然」な区切りでキーボードの前に立つこと。                                        |
+| 強制交代                | 共同作業 | 新しいドライバーがキーボードの前に座る。モブメンバーの提案やタイマーによる交代などのパターンがある               |
+| 心ここにあらず | 共同作業 | モブに出席していても、他の仕事に気を取られているなどして参画していないナビゲーター。                                                                                     |
+| 明確な発話          | 進行       | ドライバーは現在考えていることをはっきりと口に出し、その場の人々が知見ある専門家であったり、進むべき道が見えてたりするかのように振る舞います。                                                                                                              |
 | Tell me what to write      | 進行       | A prompt drivers will sometimes use to engage help from navigators, inviting someone from the mob to direct the driver.                                                                                                           |
 | Driving on Autopilot       | 進行       | A driver who proceeds without inputs from the rest of the mob.                                                                                                                                                                    |
 | Plowing Through            | 進行       | A driver who, with the support of the mob, works on the task at hand with the intent of completing it as quickly and painlessly as possible.  Often combined with the thinking out loud pattern.                                  |
