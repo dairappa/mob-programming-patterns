@@ -34,10 +34,8 @@
 | 心ここにあらず | 共同作業 | モブに出席していても、他の仕事に気を取られているなどして参画していないナビゲーター。                                                                                     |
 | 明確な発話          | 進行       | ドライバーは現在考えていることをはっきりと口に出し、その場の人々が知見ある専門家であったり、進むべき道が見えてたりするかのように振る舞います。                                                                                                              |
 | Tell me what to write      | 進行       | A prompt drivers will sometimes use to engage help from navigators, inviting someone from the mob to direct the driver.                                                                                                           |
-| Driving on Autopilot       | 進行       | A driver who proceeds without inputs from the rest of the mob.                                                                                                                                                                    |
-| Plowing Through            | 進行       | A driver who, with the support of the mob, works on the task at hand with the intent of completing it as quickly and painlessly as possible.  Often combined with the thinking out loud pattern.                                  |
-
-
+| 自動運転 | 進行       | 他のモブを無視して進行してしまうドライバーを示す（訳注: アンチパターン？） |
+| 切り開くもの            | 進行       |  ドライバーが、モブのサポートを受けながら、手元の仕事をできるだけ素早く簡便に片付けて行こうとするさまを示す。 「明確な発話」パターンと同時に使われることが多い。
 
 
 ## Additional Resources
